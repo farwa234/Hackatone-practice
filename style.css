@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.page{
+    color: #1090CB;
+}
+.btn{
+    background-color:#1090CB !important;
+    color: white !important;  
+}
+.hero{
+    background-color: lightblue;
+}
+.color{
+    color: #1090CB;
+}
+.button{
+    background-color: white !important;
+    color: #1090CB !important;
+    outline: none;
+    border: 1px solid #1090CB ;
+    border-radius: 5px;
+}
+.one{
+    background-color: #F4F4F4;
+}
+.two{
+    background-color: #1090CB;
+    color: white;
+}
